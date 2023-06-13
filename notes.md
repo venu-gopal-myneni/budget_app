@@ -21,3 +21,14 @@ Commands
 * python manage.py sqlmigrate <app_label> <migration_name>
 * python manage.py showmigrations
 * python manage.py migrate <app_label> <migration_name>
+* python manage.py shell
+
+# Views
+## In Django, a view is typically responsible for:
+
+* Validating a user's request.
+* Loading or modifying the appropriate data.
+* Returning an HTML template with the information to the user.
+
+# Templates
+* Templates are text files that can be used to generate text-based formats such as HTML or XML
